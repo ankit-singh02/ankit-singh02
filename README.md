@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankit-singh02
-- 👀 I’m interested in Competitive Programming and Android Development in Kotlin.
+- 👀 I’m interested in Competitive Programming and Software Development.
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me singhankits2003@gmail.com
 

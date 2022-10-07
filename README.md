@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit-singh02
 - 👀 I’m interested in Competitive Programming and Software Development.
-- 🌱 I’m currently learning DSA
+- 🌱 I’m looking to collaborate on Web/AppDev projects
 - 📫 How to reach me singhankits2003@gmail.com
 
 <!---
